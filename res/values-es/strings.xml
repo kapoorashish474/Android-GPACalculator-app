@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">GPA Calculadora</string>
+
+    // Main Activity
+    <string name="checkgpa">Comprobar GPA</string>
+    <string name="saveScore">Guardar Puntuación</string>
+    <string name="changeLanguage">Change Language</string>
+
+    //Enter Score
+    <string name="prev_credits">Anterior Créditos</string>
+    <string name="prev_gpa">Anterior GPA</string>
+    <string name="string_class">Clase</string>
+    <string name="grade">Grade</string>
+    <string name="credit">Créditos</string>
+    <string name="class1">Clase 1</string>
+    <string name="class2">Clase 2</string>
+    <string name="class3">Clase 3</string>
+    <string name="class4">Clase 4</string>
+    <string name="class5">Clase 5</string>
+    <string name="class6">Clase 6</string>
+    <string name="class7">Clase 7</string>
+    <string name="class8">Clase 8</string>
+    <string name="class9">Clase 9</string>
+    <string name="class10">Clase 10</string>
+    <string name="class11">Clase 11</string>
+    <string name="class12">Clase 12</string>
+    <string name="add_course">+ Añadir cursos</string>
+    <string name="button_calculate">Calcular</string>
+    <string name="button_clear">Claro</string>
+    <string name="SpinnerHeader_Grade">Grado</string>
+
+    //Display Result
+    <string name="semesterGPA">Semestre GPA</string>
+    <string name="CumulativeGPA">Acumulativo GPA</string>
+
+    //options for grade spinner
+    <string-array name="Grades_type">
+        <item> </item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>F</item>
+    </string-array>
+
+
+
+</resources>
